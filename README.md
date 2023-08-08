@@ -3,7 +3,7 @@
 
 UI logic. Activity.
 
-**Technical task:**
+**Task:**
 
 Main activity - with bank card data: first name, last name, age, client id-number.
 The second activity is with advertising. Just paste any big picture into it.
